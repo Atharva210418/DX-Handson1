@@ -1,0 +1,289 @@
+html {
+  font-family: "helvetica-neue", "Arial", sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+  margin: 0;
+}
+
+header {
+  height: 80px;
+  background-color: #333333;
+}
+
+#header-container {
+  width: 80%;
+  margin: auto;
+}
+
+.menu-container {
+  width: 50%;
+  float: left;
+}
+
+.estore-class {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 48px;
+  margin-top: 11px;
+}
+
+.menu {
+  display: inline-block;
+  margin-top: 30px;
+  padding-right: 27px;
+}
+
+.menu li {
+  list-style-type: none;
+  display: inline;
+  font-size: 0.85em;
+  color: white;
+  padding-right: 2px;
+}
+.main-container-2 {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.menu-container-2 {
+  width: 50%;
+  float: left;
+}
+.menu-container-2
+{
+  margin-top: 20px;
+}
+.menu-2 li {
+  list-style-type: none;
+  display: inline;
+  color: black;
+  margin-left: -25px;
+  font-size: 16px;
+  font-family: sans-serif;
+  padding-right: 35px;
+  
+}
+.menu-2 a
+{
+  text-decoration: none;
+  color: black;
+}
+.main-container-2 form{
+  margin-right: 7px;
+}
+
+.main-container-2 button {
+  margin-top: 20px;
+  border-color: #333333;
+  border-width: 1px;
+  background-color: #ffffff;
+  height: 40px;
+  padding-right: 30px;
+  margin-left: 60px;
+  padding-left: 10px;
+}
+
+.main-container-3 {
+  
+  width: 100%;
+  background-color: whitesmoke;
+  
+  
+  margin:auto;
+  height: 300px;
+  margin-bottom: 20px;
+
+}
+
+.image1 {
+  margin-left: 100px;
+  margin-top: 85px;
+  height: 130px;
+  width: 180px;
+}
+
+.main-container-3 {
+  width: 33%;
+  
+  float: left;
+  
+}
+
+.stay-home-class {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: 80px;
+  font-size: 44px;
+  margin-left: -30px;
+}
+
+#stay-home {
+  clear: both;
+  display: block;
+  font-size: 58px;
+  margin-left: 1px;
+  padding-left: -35px;
+}
+
+.paragraph-class {
+  margin-top: 20px;
+}
+
+.paragraph-class p {
+  font-size: 16px;
+  font-weight: 550;
+  margin-top: 20px;
+}
+
+.main-container-4 {
+  width:80%
+  /*float: left;*/
+  margin: auto;
+}
+
+/*.content-container-2 {
+  margin-top: 20px;
+  width: 80%;
+  margin: auto;
+}*/
+
+.deals-content-class p {
+  margin: 15px;
+  font-weight: 600;
+
+}
+
+/* deals 6-images starts here*/
+.gallery {
+  margin: 15px;
+  border: 1px solid white;
+  float: left;
+  width: 13%;
+}
+
+.gallery img {
+  width: 100%;
+}
+
+.desc {
+  font-size: 8px;
+  font-weight: 100;
+  padding: 15px;
+  text-align: center;
+}
+
+/*deals 6 images ends here*/
+
+
+
+.main-container-5
+{
+  width: 45%;
+  margin: auto;
+  margin-bottom: 100px;
+  
+}
+
+.main-container-5 img
+{
+  
+  border:3px solid #dbf3fa;
+}
+
+.deals-content-class
+{
+  text-align: center;
+}
+
+.main-container-6 {
+  width:80%;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.links1{
+  width: 50;
+  float: left;
+}
+
+.links1 a
+{
+  text-decoration: none;
+  color: black;
+  width: 80%;
+  font-size: 14px;
+  
+}
+
+.footer
+{ width: 80%;
+  background-color:#131a22;
+  
+  margin: auto;
+  margin-top: 530px;
+  
+  
+  
+}
+
+.row
+{
+  width: 80%;
+  margin-top: 300px;
+  display: flex;
+  margin: auto;
+  
+  
+  
+  
+}
+
+.footer h4
+{
+  color: #ffffff;
+  font-size: 18px;
+  width: 25%;
+  
+  
+}
+
+.footer-col h4
+{
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.footer-col li
+{
+  list-style: none;
+  margin-bottom: 10px;
+  font-size: 16px;
+  
+
+}
+
+.footer a{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer-col{
+ width: 25%;
+ padding: 0 15px;
+ 
+
+}
+
+.policy-class h4
+{
+  margin-bottom: 50px;
+}
